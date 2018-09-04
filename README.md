@@ -16,6 +16,7 @@ bitmaps_reference 存入设计图后，设置分辨率、url，执行 backstop  
 1.设计图必须是png，需转换只改扩展名无效
 2.设置的网页高宽需与设计图尺寸一致
 3.需要登录的页面需要导入cookie
+4.工具默认是用chromium截图，测试其他浏览器样式，可以将其他浏览器页面截图作为参考图片，与chromium的截图对比
 
 其他具体用法：https://github.com/jiamingjn/BackstopJS
 
